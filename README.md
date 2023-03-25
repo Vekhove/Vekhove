@@ -1,3 +1,5 @@
-<h3>🌸Lilac🌸</h3></br>
+<h3>🌸Lilac🌸</h3>
+<h5>Gameplay Programmer, Minecraft Plugin/Mod Developer</h5><br>
+
 hii!!</br>
-I make games in Unreal Engine, but I make Minecraft plugins too!
+i make games and Minecraft plugins!
